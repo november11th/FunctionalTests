@@ -1,0 +1,4 @@
+pages/LoginPage.class
+base/BaseTests.class
+tests/LoginTest.class
+pages/HomePage.class
